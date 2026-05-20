@@ -1,0 +1,17 @@
+# SYSTEMS
+
+Operational systems currently active inside GHOSTNODE.
+
+---
+
+## ACTIVE SYSTEMS
+
+- SWARM ENGINE
+- ENTITY RUNTIME
+- BANKR SYNC
+- SIGNAL ROUTER
+- EXECUTION LAYER
+
+---
+
+> SYSTEM STATUS STABLE
