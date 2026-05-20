@@ -1,0 +1,4 @@
+signal-01 :: synchronized
+signal-02 :: routed
+signal-03 :: mutated
+signal-04 :: deployed
